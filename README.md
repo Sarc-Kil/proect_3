@@ -14,12 +14,12 @@
 
    1. Окно входа
    
-   ![]()
+   ![](https://github.com/Sarc-Kil/proect_3/blob/master/screnchot/Снимок3.1.PNG)
    
    
    2. Окно регистрации
    
-   ![]()
+   ![](https://github.com/Sarc-Kil/proect_3/blob/master/screnchot/Снимок3.2.PNG)
    
    
  
